@@ -35,7 +35,7 @@ It includes an invite button, Terms of Service, and Privacy Policy.
 ---
 
 ## 📸 Preview
-![ModiCore Bot](./ModiCore.png)
+![ModiCore Website](./modicorevercelapp.png)
 
 ---
 
