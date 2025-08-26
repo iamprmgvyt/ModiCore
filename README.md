@@ -12,13 +12,6 @@ It includes an invite button, Terms of Service, and Privacy Policy.
 ├── privacy.html # Privacy Policy page
 ├── ModiCore.png # Bot avatar (used in the website)
 └── README.md # Project documentation
-
-yaml
-Sao chép
-Chỉnh sửa
-
----
-
 ## 🚀 Features
 - ✅ Modern landing page with bot avatar  
 - ✅ Invite button (direct to Discord OAuth2 link)  
